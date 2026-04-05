@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><aml>
+    <file path="/src/main/kotlin/Main.kt"/>
+    <file path="/src/main/kotlin/Say.kt"/>
+    <file path="/build.gradle.kts"/>
+<file path="/src/main/kotlin/Number.kt"/>
+</aml>
